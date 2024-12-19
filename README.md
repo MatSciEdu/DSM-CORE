@@ -31,7 +31,7 @@ Here are a few resources that might be usefulf for editing in markdown:
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
-</form>
-
+</form>  
+  
 ## Support
 This resource  supported by the National Science Foundation under Grant No. (2017072). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
