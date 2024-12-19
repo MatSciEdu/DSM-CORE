@@ -25,13 +25,13 @@ Here are a few resources that might be usefulf for editing in markdown:
 10. If you need to make any edits you can edit your file directly via the webpage on your forked branch and submit another pull request.
 
 # [View Resource Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)  
-
+<br/><br/>
 ## Search Resource Collection
 <form action="{{ site.baseurl }}/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
-</form>  
-  
+</form>
+<br/><br/>
 ## Support
 This resource  supported by the National Science Foundation under Grant No. (2017072). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
