@@ -24,7 +24,7 @@ Here are a few resources that might be usefulf for editing in markdown:
 9. Once you see a confirmation that your pull request has been merged, check to verify that your resource is showing up correctly.
 10. If you need to make any edits you can edit your file directly via the webpage on your forked branch and submit another pull request.
 
-# [View Resource Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)
+# [View Resource Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)  
 
 ## Search Resource Collection
 <form action="{{ site.baseurl }}/search.html" method="get">
