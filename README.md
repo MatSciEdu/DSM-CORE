@@ -8,11 +8,12 @@ The DSM-CORE repository is an assembly of teaching materials for applied data sc
 3. Everything should link out to where it is being maintained elsewhere with a permanent link. Periodically, resource maintainers will check for stale links and reach out for an update.
 
 # Contribute by creating a new resource ".md" file from the template
-These instructions assume you are purely interacting through the github website interface and don't require installing git or working with any seperate tools.
+These instructions assume you are purely interacting through the github website interface and don't require installing git or working with any seperate tools. If you are familiar with the git workflow the TLDR is you will fork the repository, commit your own .md file to your forked repository in the _resources directory, then submit a pull request to merge back into the main branch that is rendered on the website.
 
-1. Download the [Template](https://github.com/MatSciEdu/DSM-CORE/blob/main/template-resource.md) which is a markdown file that get's processed into the resource webpage. It is a text file and can be edited with any text editor of your choice.
-3. Fill in the main sections (everything with the UPDATE tag) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials.  
-Here are a few resources that might be usefulf for editing in markdown:  
+1. Download the [Template](https://github.com/MatSciEdu/DSM-CORE/blob/main/template-resource.md) which is a markdown file that gets processed into the resource webpage. It is a text file and can be edited with any text editor of your choice.
+2. consider opening and following along with an [existing resource](https://matsciedu.github.io/DSM-CORE/resource-collection) to get a sense of what might be useful to include.
+3. Fill in the main sections by replacing every UPDATE tag with your information. Keep any surrounding formatting such as square brackets, commas, astrisks, etc. as they help create a consistent style. Note that any links should ideally be to locations where you aim to maintain the materials and users might automatically see updates.  
+Here are a few resources that might be useful for formatting in markdown:  
 [basic markdown syntax](https://markdownguide.offshoot.io/basic-syntax/)  
 [And more complex syntax](https://www.markdownguide.org/extended-syntax/)  
 [And the Specific Style layout that is used](https://pages-themes.github.io/leap-day/)
@@ -20,8 +21,8 @@ Here are a few resources that might be usefulf for editing in markdown:
 5. Create a Fork of the repository using the "Fork" button at the top right of the repository page
 6. Navigate to the _resources directory in your new fork and select "Add File" -> "Upload Files" and upload your ".md" file. 
 7. Commit your upload using the "Commit Changes" button.
-8. Your repo should now say "1 commit ahead...", select "Contribute" -> "Open Pull Request". This will then submit the request for your resource to be added. A resource maintainer will check that everything looks correct and accept the update.
-9. Once you see a confirmation that your pull request has been merged, check to verify that your resource is showing up correctly.
+8. Your repo should now say "1 commit ahead...", select "Contribute" -> "Open Pull Request". Fill in an informal title that identifies the request, then submit the pull request. A resource maintainer will check that everything looks correct and accept the update.
+9. Once you get a confirmation that your pull request has been merged, check to verify that your resource is showing up correctly.
 10. If you need to make any edits you can edit your file directly via the webpage on your forked branch and submit another pull request.
 
 # [View Resource Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)  
