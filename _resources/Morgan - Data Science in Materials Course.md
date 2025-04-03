@@ -33,8 +33,7 @@ It is very hard to use a course without some information about how the materials
 # any additional details you'd like people to be aware of
 
 ## Links
-https://drive.google.com/drive/u/0/folders/1Ff1vZwwpSRRHDbGC7z2uXB-IAsny6Ox2             # include links to the materials following the format below
-[UPDATE the text - This will show up as text](https://linktoyourmaterials.com)
+[Course Materials on Google Drive](https://drive.google.com/drive/u/0/folders/1Ff1vZwwpSRRHDbGC7z2uXB-IAsny6Ox2)             # include links to the materials following the format below
 
 * * *
 ### [Return to Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)
